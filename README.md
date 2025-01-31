@@ -30,7 +30,7 @@ For a more detailed breakdown of the notebooks in this repo, please refer to thi
 
 
 ## Environment Setup (Vertex AI)
-
+ 
 First, open [CloudShell](https://cloud.google.com/shell) and run the following instructions:
 
 ```bash
