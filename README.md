@@ -20,7 +20,7 @@ We have three main folders described below:
 ├── kernels - contains kernel scripts needed for certain notebooks in lab folder
 ├── notebooks - contains labs and solutions notebook organized by topic
 │   ├── bigquery
-│   ├── building_production_ml_systems
+│   ├── building_production_ml_systems 
 │   ├── docker_and_kubernetes
 │   ├── . . .
 ├── scripts - contains setup scripts for enabling and setting up services on Vertex AI
