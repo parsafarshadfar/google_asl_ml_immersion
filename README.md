@@ -41,7 +41,7 @@ cd asl-ml-immersion
 
 Second, follow the instruction of [the official documentation](https://cloud.google.com/vertex-ai/docs/workbench/instances/create-console-quickstart) to set up a JupyterLab instance on [Vertex AI Workbench Instance](https://cloud.google.com/vertex-ai/docs/workbench/instances/introduction).
 
-**Note:** Accelerators (GPU/TPU) are not required in most of the labs, but some notebooks recommend using them.
+**Note:** Accelerators (GPU/TPU) are not required in most of the labs, but some notebooks recommend using them. 
 
 After creating a Vertex Workbench Instance, open the terminal *in your JupyterLab instance* and run the following commands:
 
